@@ -1,0 +1,48 @@
+# Assignment problem statement
+problem.txt
+
+# Dataset directories
+cats_dogs_dataset/
+PetImages/
+
+# Kagglehub cache (dataset downloads)
+.cache/
+__pycache__/
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model weights and large files
+*.pth
+*.pt
+*.h5
+*.pkl
+*.pickle
+
+# Logs
+*.log
